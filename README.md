@@ -1,3 +1,9 @@
+#Overview
+Thanks to +happier, the data column is now translated to english, I suggest we all use the english version
+The download link for the english training set is [here](https://dl.dropboxusercontent.com/u/66809970/train_ver2_eng.csv.zip)
+
+The table description is here:
+
 | Eng Col Name            | Spa Col Name          | Description                                                                                                                                 |
 |-------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | date                    | fecha_dato            | The table is partitioned for this column                                                                                                    |
