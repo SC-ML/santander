@@ -1,5 +1,5 @@
 #Overview
-Thanks to +happier, the data column is now translated to english, I suggest we all use the english version
+Thanks to +happier, the data column is now translated to english, I suggest we use both versions (english for your own development and feature engineering, spanish/original version for submission and learning from other people's work), 
 The download link for the english training set is [here](https://dl.dropboxusercontent.com/u/66809970/train_ver2_eng.csv.zip)
 
 The table description is here:
@@ -54,3 +54,11 @@ The table description is here:
 | payroll                 | ind_nomina_ult1       | Payroll                                                                                                                                     |
 | pensions_2              | ind_nom_pens_ult1     | Pensions                                                                                                                                    |
 | direct_debit            | ind_recibo_ult1       | Direct Debit                                                                                                                                |
+
+
+# Log
+12-04-2016
+- Started the project repo
+- Learn the huge data set actually is hard to handle (suggest to potentially use only sample data to explore)
+- Translate col title to english version
+- Learn from [Less is More](https://www.kaggle.com/c/santander-product-recommendation/forums/t/25579/when-less-is-more)
